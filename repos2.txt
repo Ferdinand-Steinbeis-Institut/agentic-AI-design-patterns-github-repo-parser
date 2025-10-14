@@ -1,0 +1,58 @@
+https://github.com/google-gemini/gemini-cli - 1
+https://github.com/browser-use/browser-use - 2
+https://github.com/Shubhamsaboo/awesome-llm-apps -3
+https://github.com/lobehub/lobe-chat - 4
+https://github.com/OpenBB-finance/OpenBB - Irrelevant
+https://github.com/microsoft/autogen - 5
+https://github.com/Mintplex-Labs/anything-llm - 6
+https://github.com/FlowiseAI/Flowise - 7
+https://github.com/mem0ai/mem0 - 8
+https://github.com/microsoft/ai-agents-for-beginners - 9
+https://github.com/crewAIInc/crewAI
+https://github.com/ToolJet/ToolJet
+https://github.com/reworkd/AgentGPT
+https://github.com/agno-agi/agno
+https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+https://github.com/nrwl/nx
+https://github.com/ComposioHQ/composio
+https://github.com/warpdotdev/Warp
+https://github.com/CopilotKit/CopilotKit
+https://github.com/e2b-dev/awesome-ai-agents
+https://github.com/block/goose
+https://github.com/stitionai/devika
+https://github.com/bytedance/UI-TARS-desktop
+https://github.com/getzep/graphiti
+https://github.com/patchy631/ai-engineering-hub
+https://github.com/kortix-ai/suna
+https://github.com/activepieces/activepieces
+https://github.com/coze-dev/coze-studio
+https://github.com/NirDiamant/GenAI_Agents
+https://github.com/mastra-ai/mastra
+https://github.com/TransformerOptimus/SuperAGI
+https://github.com/raga-ai-hub/RagaAI-Catalyst
+https://github.com/simstudioai/sim
+https://github.com/browser-use/web-ui
+https://github.com/dagger/dagger
+https://github.com/google/adk-python
+https://github.com/ashishpatel26/500-AI-Agents-Projects
+https://github.com/triggerdotdev/trigger.dev
+https://github.com/shareAI-lab/analysis_claude_code
+https://github.com/trycua/cua
+https://github.com/bytedance/trae-agent
+https://github.com/MotiaDev/motia
+https://github.com/TEN-framework/ten-framework
+https://github.com/Upsonic/Upsonic
+https://github.com/livekit/agents
+https://github.com/topoteretes/cognee
+https://github.com/awslabs/agent-squad
+https://github.com/julep-ai/julep
+https://github.com/linyiLYi/street-fighter-ai
+https://github.com/crestalnetwork/intentkit
+https://github.com/NeoVertex1/SuperPrompt
+https://github.com/nickscamara/open-deep-research
+https://github.com/kuafuai/DevOpsGPT
+https://github.com/alibaba/spring-ai-alibaba
+https://github.com/MervinPraison/PraisonAI
+https://github.com/grab/cursor-talk-to-figma-mcp
+https://github.com/steel-dev/steel-browser
+https://github.com/GaiaNet-AI/gaianet-node
